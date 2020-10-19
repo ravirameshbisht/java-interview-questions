@@ -1,11 +1,14 @@
 # java-interview-questions
 java-interview-questions
 
-| A  |   |   |   |   |
-|----|---|---|---|---|
-| B  |   |   |   |   |
-| C  |   |   |   |   |
-| D  |   |   |   |   |
+| Question  | Answer  |
+|-----------|---------|
+| Q1        | A1      |
+| Q2        | A2      |
+| Q3        | A3      |
+| Q4        | A4      |
+| Q5        | A5      |
+
 
 1.  https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/ 
 2.  https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-1/ 
