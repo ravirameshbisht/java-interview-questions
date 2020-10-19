@@ -9,7 +9,10 @@ java-interview-questions
 |1  |  [What is the Java Collections API? List down its advantages?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#what_is_collection_in_java){:target="_blank"}
 |2  |  [What is the Java Collections API? List down its advantages?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#what_is_collection_in_java)
 |3  |  [What is the Java Collections API? List down its advantages?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#what_is_collection_in_java)
-|4  |  <a href="http://example.com/" target="_blank">example</a>
+|4  |  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 
 
