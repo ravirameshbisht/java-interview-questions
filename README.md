@@ -6,7 +6,7 @@ java-interview-questions
 | No. | Questions | Answers |
 | --- | --------- | --------|
 |   | | **Core Microservice** |
-|1  | What is the Java Collections API? List down its advantages? |  What is the Java Collections API? List down its advantages? |
+|1  | What is the Java Collections API? List down its advantages? |  https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#what_is_collection_in_java |
 |2  | Q1 |  https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/ |
 |3  | Q1 |  https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/ |
 
