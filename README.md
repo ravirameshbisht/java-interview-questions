@@ -6,9 +6,9 @@ java-interview-questions
 | No. | Questions | Answers |
 | --- | --------- | --------|
 |   | | **Core Microservice** |
-|1  | Q1 |  https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/ |
-|2  | Q1 |  [Benefits of the monolithic architecture?](#benefits-of-the-monolithic-architecture) |
-|3  | Q1 |  [Big Ball of Mud pattern?](#big-ball-of-mud-pattern) |
+|1  | What is the Java Collections API? List down its advantages? |  What is the Java Collections API? List down its advantages? |
+|2  | Q1 |  https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/ |
+|3  | Q1 |  https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/ |
 
 
 
