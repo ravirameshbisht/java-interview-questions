@@ -1,7 +1,8 @@
-# collection of java-interview-questions
-collection of java-interview-questions
+### collection of java-interview-questions
+collection of java-interview-questions I found on the internet which are good. 
+(These resources are not mine, this is just a collection of questions which should be known to a developer before going for java interview)
 
-### Table of Contents
+#### Table of Contents
 
 | No. | Questions |
 | --- | --------- |
