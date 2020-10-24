@@ -82,7 +82,6 @@ java-interview-questions
 |20  |  [All String Java Questions](https://howtodoinjava.com/interview-questions/interview-stuff-about-string-class-in-java/)
 |20  |  [Create object without ‘new’ keyword](https://howtodoinjava.com/java/puzzles/how-to-create-an-instance-of-any-class-without-using-new-keyword/)
 |20  |  [Java Wrapper Classes Internal Caching](https://howtodoinjava.com/java-examples/internal-cache-wrapper-classes/)
-
 |    | **Core Java Interview Questions – multi-threading** |
 |22  |  [Java DelayQueue](https://howtodoinjava.com/java/multi-threading/java-delayqueue/)
 |23  |  [ExecutorService – shutdown(), shutdownNow() and awaitTermination​()](https://howtodoinjava.com/java/multi-threading/executorservice-shutdown/)
