@@ -1,6 +1,6 @@
 ### collection of java-interview-questions
-collection of java-interview-questions I found on the internet which are good. 
-(These resources are not mine, this is just a collection of questions)
+These resources are not mine, it is just a collection of java-interview-questions I found on the internet.
+Handy for referring before going for an interview
 
 #### Table of Contents
 
