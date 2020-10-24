@@ -1,6 +1,6 @@
 ### collection of java-interview-questions
 These resources are not mine, it is just a collection of java-interview-questions I found on the internet.
-Handy for referring before going for an interview
+Handy for referring before going for an interview. Multi threading can be ignored by beginners and mid level developers 
 
 #### Table of Contents
 
