@@ -5,12 +5,12 @@ java-interview-questions
 
 | No. | Questions |
 | --- | --------- |
-|   | | **Collection - General questions** |
+|   | **Collection - General questions** |
 |1  |  [What is the Java Collections API? List down its advantages?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#what_is_collection_in_java)
 |2  |  [Explain Collections hierarchy?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#collections_hierarchy)
 |3  |  [Why Collection interface does not extend Cloneable and Serializable interface?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#why_collection_not_extend_cloneable_serializable)
 |4  |  [Why Map interface does not extend Collection interface?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#why_map_not_extend_collection)
-|   | | **Collection - List interface** |
+|   | **Collection - List interface** |
 |5  |  [Why we use List interface? What are main classes implementing List interface?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#what_is_list_in_java)
 |6  |  [How to convert an array of String to ArrayList?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#convert_array_of_String_to_ArrayList)
 |7  |  [How to reverse the list?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#reverse_list)
@@ -18,7 +18,7 @@ java-interview-questions
 |8  |  [Why we use Set interface? What are main classes implementing Set interface?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#what_is_set_in_java)
 |9  |  [How HashSet store elements?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#how_set_store_elements)
 |10  |  [Can a null element added to a TreeSet or HashSet?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#null_in_set)
-|   | | **Collection - Map interface related** |
+|    | **Collection - Map interface related** |
 |11  |  [Why we use Map interface? What are main classes implementing Map interface?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#what_is_map_in_java)
 |12  |  [What are IdentityHashMap and WeakHashMap?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#identityHashMap_weakHashMap_differences)
 |13  |  [Explain ConcurrentHashMap? How it works?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#how_concurrentHashMap_works)
@@ -26,7 +26,7 @@ java-interview-questions
 |15  |  [How to design a good key for hashmap?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#good_key_for_hashmap)
 |16  |  [What are different Collection views provided by Map interface?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#different_collection_views)
 |17  |  [When to use HashMap or TreeMap?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#hashmap_or_treemap)
-|   | | **Collection - Difference questions** |
+|    | **Collection - Difference questions** |
 |18  |  [Difference between Set and List?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#difference_set_and_list)
 |19  |  [Difference between List and Map?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#difference_map_and_list)
 |20  |  [Difference between HashMap and HashTable?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#difference_hashmap_and_hashtable)
@@ -36,7 +36,7 @@ java-interview-questions
 |24  |  [Difference between Iterator and ListIterator?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#difference_iterator_and_listiterator)
 |25  |  [Difference between TreeSet and SortedSet?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#difference_treeset_and_sortedset)
 |26  |  [Difference between ArrayList and LinkedList?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#difference_arraylist_and_linkedlist)
-|   | | **Collection - More questions** |
+|    | **Collection - More questions** |
 |26  |  [Java ConcurrentHashMap Best Practices](https://howtodoinjava.com/java/multi-threading/best-practices-for-using-concurrenthashmap/)
 |15  |  [How to make a collection read only?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#read_only_collection)
 |16  |  [How to make a collection thread safe?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#thread_safe_collection)
@@ -51,7 +51,7 @@ java-interview-questions
 |25  |  [What is Queue and Stack, list their differences?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#queue_and_stack_difference)
 |26  |  [What is Comparable and Comparator interface?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#Comparable_and_Comparator)
 |24  |  [What are Collections and Arrays class?](https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#Collections_and_arrays)
-|   | | **Core Java Interview Questions – Part 1** |
+|    | **Core Java Interview Questions – Part 1** |
 |25  |  [How to create a immutable object in Java? Count all benefits?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-1/#ques1)
 |26  |  [Is Java Pass by Reference or Pass by Value?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-1/#ques2)
 |15  |  [What is the use of the finally block? Is finally block in Java guaranteed to be called? When finally block is NOT called?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-1/#ques3)
@@ -63,7 +63,7 @@ java-interview-questions
 |21  |  [Explain the working of HashMap.](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-1/#ques9)
 |22  |  [Difference between interfaces and abstract classes?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-1/#ques10)
 |23  |  [When do you override hashCode and equals()?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-1/#ques11)
-|   | | **Core Java Interview Questions – Part 2** |
+|    | **Core Java Interview Questions – Part 2** |
 |24  |  [Why finalize() method should be avoided?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-2/#why-avoid-finalize)
 |25  |  [Why HashMap should not be used in multithreaded environment? Can it cause infinite loop as well?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-2/#hashmap-in-multithreading)
 |26  |  [Explain abstraction and encapsulation? How are they related?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-2/#abstraction-encalsulation)
@@ -74,8 +74,7 @@ java-interview-questions
 |17  |  [What happens if your Serializable class contains a member which is not  serializable? How do you fix it?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-2/#serializable)
 |18  |  [Explain transient and volatile keywords in java?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-2/#transient-volatile)
 |19  |  [Difference between Iterator and ListIterator?](https://howtodoinjava.com/interview-questions/core-java-interview-questions-series-part-2/#iterator-vs-listiterator)
-|   | | **Core Java Interview Questions – Part 3** |
-
+|    | **Core Java Interview Questions – Part 3** |
 |20  |  [Everything about object cloning	?](https://howtodoinjava.com/java/cloning/a-guide-to-object-cloning-in-java/)
 |20  |  [Java hashCode() and equals() – Contract, rules and best practices](https://howtodoinjava.com/java/basics/java-hashcode-equals-methods/)
 |20  |  [Java Memory Management – Garbage Collection Algorithms](https://howtodoinjava.com/java/garbage-collection/revisiting-memory-management-and-garbage-collection-mechanisms-in-java/)
@@ -83,15 +82,8 @@ java-interview-questions
 |20  |  [All String Java Questions](https://howtodoinjava.com/interview-questions/interview-stuff-about-string-class-in-java/)
 |20  |  [Create object without ‘new’ keyword](https://howtodoinjava.com/java/puzzles/how-to-create-an-instance-of-any-class-without-using-new-keyword/)
 |20  |  [Java Wrapper Classes Internal Caching](https://howtodoinjava.com/java-examples/internal-cache-wrapper-classes/)
-|20  |  []()
-|20  |  []()
-|20  |  []()
-|20  |  []()
-|20  |  []()
 
-
-
-|   | | **Core Java Interview Questions – multi-threading** |
+|    | **Core Java Interview Questions – multi-threading** |
 |22  |  [Java DelayQueue](https://howtodoinjava.com/java/multi-threading/java-delayqueue/)
 |23  |  [ExecutorService – shutdown(), shutdownNow() and awaitTermination​()](https://howtodoinjava.com/java/multi-threading/executorservice-shutdown/)
 |24  |  [ExecutorService – Cancel a task in executor](https://howtodoinjava.com/java/multi-threading/executor-service-cancel-task/)
@@ -131,3 +123,4 @@ java-interview-questions
 |20  |  [Java Inter-thread Communication – PipedReader and PipedWriter](https://howtodoinjava.com/java/multi-threading/inter-thread-communication-using-piped-streams-in-java/)
 |21  |  [Java ThreadPoolExecutor and BlockingQueue Example](https://howtodoinjava.com/java/multi-threading/how-to-use-blockingqueue-and-threadpoolexecutor-in-java/)
 |22  |  [Java Deadlock Example and Solution](https://howtodoinjava.com/java/multi-threading/writing-a-deadlock-and-resolving-in-java/)
+|23  |  [What is the Java Collections API]()
