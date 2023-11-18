@@ -1,35 +1,40 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
-Click this link for All interview Answers
-</h1>
-<h2 align="center">https://www.instagram.com/backend.interview.preparation/
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
+Click below link for All interview Answers
+	<h2 align="center">💡https://www.instagram.com/backend.interview.preparation/
+	</h2>
 </h2>
 
+<h4 align="center">
+⚡I update this daily!, save the link to this github page
+</h4>
 
 
-|🎯| **Collections**|  |
-|🎯| **Java 8** |  |
-|🎯| **Java Basics** |  |
-|🎯| **OOPS** |  |
-|🎯| **Inheritance** |  |
-|🎯| **Constructor** |  |
-|🎯| **Method Overloading and Overriding** |  |
-|🎯| **Polymorphism** |  |
-|🎯| **Abstraction** |  |
-|🎯| **Static** |  |
-|🎯| **Final** |  |
-|🎯| **Package** |  |
-|🎯| **Internationalization** |  |
-|🎯| **Serialization** |  |
-|🎯| **Reflection** |  |
-|🎯| **Garbage Collection** |  |
-|🎯| **Inner Classes** |  |
-|🎯| **String** |  |
-|🎯| **Exception Handling** |  |
-|🎯| **Multi-threading** |  |
-|🎯| **Mixed Questions** |  |
-|🎯| **Advanced Multi-threading** |  |
-|🎯| **Java Tricky Questions** |  |
-|🎯| **Java Design Patterns** |  |
+
+
+|🎯| **Collections**
+|🎯| **Java 8** 
+|🎯| **Java Basics** 
+|🎯| **OOPS** 
+|🎯| **Inheritance** 
+|🎯| **Constructor** 
+|🎯| **Method Overloading and Overriding** 
+|🎯| **Polymorphism** 
+|🎯| **Abstraction** 
+|🎯| **Static** 
+|🎯| **Final** 
+|🎯| **Package** 
+|🎯| **Internationalization** 
+|🎯| **Serialization** 
+|🎯| **Reflection** 
+|🎯| **Garbage Collection** 
+|🎯| **Inner Classes** 
+|🎯| **String** 
+|🎯| **Exception Handling** 
+|🎯| **Multi-threading** 
+|🎯| **Mixed Questions** 
+|🎯| **Advanced Multi-threading** 
+|🎯| **Java Tricky Questions** 
+|🎯| **Java Design Patterns** 
 
 | No | Questions | Answers |
 | --- | --------- | --- |
